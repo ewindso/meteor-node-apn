@@ -1,0 +1,9 @@
+{
+  "name": "node-apn",
+  "description": "A Node.js module for interfacing with the Apple Push Notification service.",
+  "homepage": "https://github.com/ewindso/meteor-node-apn",
+  "author": "Elijah Windsor <elijah@appstem.com>",
+  "version": "1.4.1",
+  "git": "https://github.com/ewindso/meteor-node-apn.git",
+  "packages": {}
+}
