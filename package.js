@@ -3,7 +3,8 @@ Package.describe({
 });
 
 Npm.depends({
-  apn: "1.4.1"
+  apn: "1.4.1", 
+  debug: "0.7.2"
 });
 
 Package.on_use(function (api) {
